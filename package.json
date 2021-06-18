@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/imdadareeph/imdadareeph.github.io",
   "dependencies": {
-    "@angular/cdk": "5.1.1",
+    "@angular/cdk": "5.2.5",
     "@angular/cli": "1.6.7",
     "@angular/compiler-cli": "5.2.3",
     "@angular/compiler": "5.2.3",
