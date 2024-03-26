@@ -31,7 +31,7 @@
     "@angular/core": "5.2.3",
     "typescript": "2.6.2",
     "compression": "^1.0.8",
-    "express": "^4.4.4",
+    "express": "^4.19.2",
     "serve-static": "^1.2.3"
   }
 }
